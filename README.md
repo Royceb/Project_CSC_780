@@ -33,5 +33,5 @@ Everything is on GitHub. Use the code in any way you think is best but please he
 And thanks to Dr. Puder at San Francisco State University for the helpful tutorials on Android. Without referring those, we could not have thought of developing a game, especially, the tutorials that made use of SurfaceView class in Android.
 <br></br><br></br>
 <b>Want to contact me?</b><br></br>
-Email me at calpratik@gmail.com.
+Email me at royce.r.brooks@gmail.com or calpratik@gmail.com.
 
